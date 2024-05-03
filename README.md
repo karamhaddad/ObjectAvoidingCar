@@ -25,7 +25,7 @@ This project consists of the code and resources for a self-navigting car that ca
 - `ultrasonic.py`: Handles the distance measurement using the ultrasonic sensor.
 
 ## Setup and Installation
-1. **Assemble the hardware:** Connect all the components based on the video provided here :[Object Avoiding Car Raspberry Pi Pico W - MicroPython Project]((https://youtu.be/DBFbXrDwuZE?si=dCfnAfBYhmaXDY2W).
+1. **Assemble the hardware:** Connect all the components based on the video provided here :[Object Avoiding Car Raspberry Pi Pico W - MicroPython Project](https://youtu.be/DBFbXrDwuZE?si=dCfnAfBYhmaXDY2W).
 2. **Install the software:** Ensure Pico or similar microcontroller is set up and good to go.
 3. **Run the code:** Execute the `main.py` script to start the car.
 
